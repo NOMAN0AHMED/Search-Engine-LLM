@@ -35,7 +35,7 @@ torch
 sentence-transformers 
 langchain 
 langchain-chroma
-duckduckgo-search
+duckduckgo-search==2.6.1
 validators==0.28.0
 youtube_transcript_api
 unstructured
